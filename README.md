@@ -1,2 +1,3 @@
-# vue-a11y-modal
-Modal Accessibility Using Vue.js
+# Vue A11Y Modal
+
+> Modal Accessibility Using Vue.js
